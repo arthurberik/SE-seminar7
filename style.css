@@ -70,3 +70,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.kaks-veergu {
+    display: flex;
+    gap: 30px;
+}
+
+.kaks-veergu > div {
+    width: 50%;
+}
+
